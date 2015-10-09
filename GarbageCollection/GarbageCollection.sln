@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollection", "GarbageCollection\GarbageCollection.csproj", "{7DDAD20B-0847-4027-9FA6-775FC027C5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garbagecollection2", "garbagecollection2\garbagecollection2.csproj", "{033BDD95-C11D-4A5B-AF84-444D48760440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033BDD95-C11D-4A5B-AF84-444D48760440}.Debug|x86.ActiveCfg = Debug|x86
+		{033BDD95-C11D-4A5B-AF84-444D48760440}.Debug|x86.Build.0 = Debug|x86
+		{033BDD95-C11D-4A5B-AF84-444D48760440}.Release|x86.ActiveCfg = Release|x86
+		{033BDD95-C11D-4A5B-AF84-444D48760440}.Release|x86.Build.0 = Release|x86
+		{7DDAD20B-0847-4027-9FA6-775FC027C5EC}.Debug|x86.ActiveCfg = Debug|x86
+		{7DDAD20B-0847-4027-9FA6-775FC027C5EC}.Debug|x86.Build.0 = Debug|x86
+		{7DDAD20B-0847-4027-9FA6-775FC027C5EC}.Release|x86.ActiveCfg = Release|x86
+		{7DDAD20B-0847-4027-9FA6-775FC027C5EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
