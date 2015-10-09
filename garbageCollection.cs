@@ -16,7 +16,7 @@ namespace GarbageCollection
 			// Collect all generations of memory.
 			GC.Collect();
 			Console.WriteLine("Memory used after full collection:   {0:N0}", 
-				GC.GetTotalMemory(true));
+				GC.GetTotalMemory(false));
 		}
 
 		static void MakeSomeGarbage()
