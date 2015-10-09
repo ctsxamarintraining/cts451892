@@ -4,7 +4,7 @@ namespace GarbageCollection
 {
 	class MyGCCollectClass
 	{
-		private const int maxGarbage = 1000;
+		private const int max = 1000;
 
 		static void Main()
 		{
@@ -24,7 +24,7 @@ namespace GarbageCollection
 			Version vt;
 
 			// Create objects and release them to fill up memory with unused objects.
-			for(int i = 0; i < maxGarbage; i++) {
+			for(int i = 0; i < max; i++) {
 				vt = new Version();
 			}
 		}
