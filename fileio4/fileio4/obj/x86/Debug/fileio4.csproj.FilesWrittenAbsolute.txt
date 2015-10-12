@@ -1,0 +1,5 @@
+/Users/apple/Desktop/uthra/fileio4/fileio4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/uthra/fileio4/fileio4/bin/Debug/fileio4.exe.mdb
+/Users/apple/Desktop/uthra/fileio4/fileio4/bin/Debug/fileio4.exe
+/Users/apple/Desktop/uthra/fileio4/fileio4/obj/x86/Debug/fileio4.exe
+/Users/apple/Desktop/uthra/fileio4/fileio4/obj/x86/Debug/fileio4.exe.mdb
