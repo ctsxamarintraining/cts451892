@@ -1,0 +1,5 @@
+/Users/apple/Desktop/uthra/anonymousmethod/anonymousmethod/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/uthra/anonymousmethod/anonymousmethod/bin/Debug/anonymousmethod.exe.mdb
+/Users/apple/Desktop/uthra/anonymousmethod/anonymousmethod/bin/Debug/anonymousmethod.exe
+/Users/apple/Desktop/uthra/anonymousmethod/anonymousmethod/obj/x86/Debug/anonymousmethod.exe
+/Users/apple/Desktop/uthra/anonymousmethod/anonymousmethod/obj/x86/Debug/anonymousmethod.exe.mdb
