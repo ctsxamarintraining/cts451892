@@ -1,0 +1,5 @@
+/Users/apple/Desktop/uthra/exceptionhandling2/exceptionhandling2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/uthra/exceptionhandling2/exceptionhandling2/bin/Debug/exceptionhandling2.exe.mdb
+/Users/apple/Desktop/uthra/exceptionhandling2/exceptionhandling2/bin/Debug/exceptionhandling2.exe
+/Users/apple/Desktop/uthra/exceptionhandling2/exceptionhandling2/obj/x86/Debug/exceptionhandling2.exe
+/Users/apple/Desktop/uthra/exceptionhandling2/exceptionhandling2/obj/x86/Debug/exceptionhandling2.exe.mdb
