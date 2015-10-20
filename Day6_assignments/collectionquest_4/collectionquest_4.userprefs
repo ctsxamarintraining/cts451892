@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="collectionquest_4/collectionquest_4.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="collectionquest_4/Program.cs">
+    <Files>
+      <File FileName="collectionquest_4/Program.cs" Line="41" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/apple/Desktop/uthra/collectionQuest_1/collectionQuest_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/uthra/collectionQuest_1/collectionQuest_1/bin/Debug/collectionQuest_1.exe.mdb
+/Users/apple/Desktop/uthra/collectionQuest_1/collectionQuest_1/bin/Debug/collectionQuest_1.exe
+/Users/apple/Desktop/uthra/collectionQuest_1/collectionQuest_1/obj/x86/Debug/collectionQuest_1.exe
+/Users/apple/Desktop/uthra/collectionQuest_1/collectionQuest_1/obj/x86/Debug/collectionQuest_1.exe.mdb
